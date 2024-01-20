@@ -1,0 +1,38 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: rgb(1, 205, 236);
+            margin: 50px;
+        }
+        h1{
+            font-size: 50px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        input {
+            padding: 10px;
+            margin-right: 10px;
+        }
+        #new
+        {
+            font-size: 27px;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        #city
+        {
+            font-size: 20px;
+        }
+        button {
+            padding: 12px;
+            cursor: pointer;
+            border-radius: 5px;
+            background-color: rgb(0, 132, 255);
+            font-size: 16px;
+            color: blanchedalmond;
+            align-items: center;
+        }
+
+        #result {
+            margin-top: 20px;
+        }
+    
